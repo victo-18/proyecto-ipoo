@@ -1,0 +1,4 @@
+El archivo de encabezado de tipo (.h) NO incluye:;300;A;A. La implementación;B. El uso de set y get;C. La declaración de las variables miembro;D. la declaración de todas las funciones miembros;
+Seleccione a cuál de los siguientes términos corresponde la siguiente defnición: mecanismo por el que una clase es definida en referencia a otra, añadiendo todas sus características;300;C;A. Composición;B. Agregación;C. Herencia;D. Polimorfismo;
+En C++ una clase es:;300;A;A. Es un tipo de dato definido por el usuario;B. El tipo de valor que devuelve una función;C. Los argumentos que se pasan a través de la función;D. Las instrucciones a ejecutar, las cuales se encuentran entre llaves;
+La encapsulación se asegura de:;300;B;A. Que la información sumistrada no se elimine;B. Que los datos sensibles estén ocultos a los usuarios;C. Que la información que el usuario requiera, sea siempre visible;D. Depurar el código escrito por el programador;

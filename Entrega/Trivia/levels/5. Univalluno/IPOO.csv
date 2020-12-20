@@ -1,0 +1,4 @@
+Las operaciones que se pueden realizar en una pila son:;500;D;A. Top();B. Pop();C. Push();D. Todas las anteriores;
+El segmento de pila de llamadas contiene:;500;C;A. El sistema operativo para la pila de llamadas;B. La funciones que han salido de la pila de llamadas.;C. La memoria utilizada para la pila de llamadas;D. Todas las anteriores;
+Cuando una función finaliza durante la Recursividad, existen cuatro pasos y el tercero corresponde a:;500;B;A. La CPU reanuda la ejecución en la dirección de retorno;B. Se controla el valor devuelto;C. Los registros se restauran desde la pila de llamadas;D. El marco de pila se destruye. Esto libera la memoria para todas las variables y argumentos locales;
+Una función iterativa se puede expresar como:;500;A;A. Recursiva;B. Independiente;C. Todas las anteriores;D. Niguna de la anteriores;

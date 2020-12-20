@@ -1,0 +1,4 @@
+Cuál de los siguientes no es un dato compuesto;400;D;A. Array;B. Tablas unidimencionales;C. Algoritmo de búsqueda y recorrido;D. Variables y constantes;
+¿Como se declara una función en javascript?;400;A;A. Function nombre(parámetros){};B. Tipo de dato nombre(parámetro){};C. Nombre(parámetros){};D. Solo A y B son correctas;
+¿Que son las funciones puras?;400;B;A. Funciones que no mezclan en el código;B. Las funciones puras no son más que funciones las cuales dando el mismo input siempre retornan el mismo output;C. Funciones sin parámetros;D. Solo A y C son correctas;
+¿Como se declara una variable en javascript?;400;A;A. Nombre = valor;B. Tipo de dato parabra reservada nombre = valor;C. Palabra reservada nombre = valor;D. Todas las anteriores;
